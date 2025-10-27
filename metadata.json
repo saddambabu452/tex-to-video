@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Weaver",
+  "description": "Generate stunning videos from your photos and text prompts using Google's Veo AI. Upload an image, describe your vision, and watch it come to life in cinematic quality.",
+  "requestFramePermissions": []
+}
